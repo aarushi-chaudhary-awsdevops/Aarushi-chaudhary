@@ -16,7 +16,7 @@ Aarushi – AWS + DevOps Engineer
 2+ years in tech | Still curious
 
 \> stack  
-☁️ AWS (Certified Problem Solver - Associate Solutions Architect)
+☁️ AWS (Certified Problem Solver - Associate Solutions Architect) </br>
 ⚙️ Docker, Github, Jenkins, MySQL, Monitoring & Log Management..  
 🐧 Linux, Bash
 
